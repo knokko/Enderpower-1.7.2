@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enderpower",
+  "name": "enderpower",
+  "description": "A mod about magic that is not finised yet but it is useable.",
+  "version": "1.7.2-050",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": "knokko",
+  "credits": "knokko",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
